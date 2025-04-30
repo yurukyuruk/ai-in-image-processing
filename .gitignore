@@ -1,0 +1,20 @@
+# Ignore video files
+*.avi
+*.mp4
+
+# Ignore temporary files
+*.log
+*.tmp
+*.DS_Store
+__pycache__/
+*.pyc
+
+# VSCode and IDE files
+.vscode/
+.idea/
+
+# Virtual environment folders
+env/
+venv/
+mediapipe-env/
+mp-env/
